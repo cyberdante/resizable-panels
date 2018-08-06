@@ -1,7 +1,7 @@
 resizable-panels
 ==============================================================================
 
-[Short description of the addon.]
+An Ember add-on for holding other components in a three-panel structure.
 
 Installation
 ------------------------------------------------------------------------------

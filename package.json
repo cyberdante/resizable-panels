@@ -1,12 +1,12 @@
 {
   "name": "resizable-panels",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "An Ember add-on for holding other components in a three-panel structure.",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Damian Perez",
   "directories": {
     "doc": "doc",
     "test": "tests"
